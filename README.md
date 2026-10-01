@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Emannuel Márdyan — desenvolvedor full-stack com foco em produtos SaaS. Interface, código e produto." />
+  <img src="./assets/header.svg" width="100%" alt="Emannuel Márdyan — desenvolvedor full-stack, estudante de cibersegurança e criador de produtos SaaS." />
 </p>
 
 <p align="center">
@@ -12,6 +12,8 @@
 
 Sou **Emannuel**, desenvolvedor full-stack na **NABIO**. Trabalho com aplicações web e produtos SaaS, conectando a experiência de quem usa o sistema às regras de negócio e à operação em produção.
 
+Também sou **estudante de cibersegurança** e quero construir carreira na área, conectando esse aprendizado ao desenvolvimento de software.
+
 Gosto de transformar processos complicados em interfaces que fazem sentido. Meu foco está em ferramentas de gestão, integrações e produtos úteis no dia a dia.
 
 ```python
@@ -20,6 +22,8 @@ class Emannuel:
     backend = ["Python", "Django", "PostgreSQL"]
     frontend = ["HTML", "CSS", "JavaScript"]
     operacao = ["Linux", "Git", "GitHub Actions"]
+    estudando = "Cibersegurança"
+    objetivo = "Construir carreira em cibersegurança"
 
     def construir(self, ideia):
         return "entender → desenvolver → testar → evoluir"
