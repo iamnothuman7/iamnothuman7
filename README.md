@@ -1,25 +1,78 @@
-# Emannuel Márdyan
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Emannuel Márdyan — desenvolvedor full-stack com foco em produtos SaaS. Interface, código e produto." />
+</p>
 
-Desenvolvedor full-stack com foco em produtos SaaS. Trabalho com aplicações web na NABIO, conectando interface, regras de negócio e operação em produção.
+<p align="center">
+  <a href="https://emannuel.nabio.pro/"><img src="./assets/badges/portfolio.svg" alt="Visitar meu portfólio" /></a>
+  <a href="https://www.linkedin.com/in/emannuelmardyan7/"><img src="./assets/badges/linkedin.svg" alt="Conversar no LinkedIn" /></a>
+  <a href="https://github.com/iamnothuman7?tab=repositories"><img src="./assets/badges/github.svg" alt="Explorar meus repositórios" /></a>
+</p>
 
-Meu trabalho passa por Python e Django no backend, PostgreSQL na persistência e HTML, CSS e JavaScript na experiência de uso. Também trabalho com implantação em Linux e automação de verificações com GitHub Actions.
+## Sobre mim
 
-## Projetos públicos
+Sou **Emannuel**, desenvolvedor full-stack na **NABIO**. Trabalho com aplicações web e produtos SaaS, conectando a experiência de quem usa o sistema às regras de negócio e à operação em produção.
 
-| Projeto | O que você encontra |
-| --- | --- |
-| [Solvian](https://github.com/iamnothuman7/solvian) | Projeto acadêmico em Django: dimensionamento solar, integração NASA POWER, análise de geração e propostas em PDF. |
-| [Emannuel Educa](https://github.com/iamnothuman7/emannuel-educa) | Protótipo educacional em JavaScript com lições, playground e quizzes. Contas e progresso são demonstrativos e locais ao navegador. |
-| [Emannuel Marketing](https://github.com/iamnothuman7/emannuel.mkt) | Site de apresentação profissional com interface responsiva, animações e navegação em página única. |
+Gosto de transformar processos complicados em interfaces que fazem sentido. Meu foco está em ferramentas de gestão, integrações e produtos úteis no dia a dia.
 
-Os READMEs apresentam o escopo implementado, como executar e as limitações de cada projeto. Estudos e protótipos estão identificados como tal.
+```python
+class Emannuel:
+    foco = "Full-stack & produtos SaaS"
+    backend = ["Python", "Django", "PostgreSQL"]
+    frontend = ["HTML", "CSS", "JavaScript"]
+    operacao = ["Linux", "Git", "GitHub Actions"]
 
-## Produtos SaaS
+    def construir(self, ideia):
+        return "entender → desenvolver → testar → evoluir"
+```
 
-Os produtos comerciais e sistemas de clientes ficam em repositórios privados. Essa separação preserva dados, integrações e código de negócio; o portfólio público reúne projetos que podem ser consultados e estudados.
+## Tecnologias
 
-Tenho interesse em desenvolvimento full-stack, ferramentas de gestão e produtos que simplifiquem o trabalho de quem usa o sistema.
+**Backend e dados**
 
-## Contato
+![Python](./assets/badges/python.svg)
+![Django](./assets/badges/django.svg)
+![PostgreSQL](./assets/badges/postgresql.svg)
 
-[Site profissional](https://emannuel.nabio.pro/) · [LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/)
+**Interface e experiência**
+
+![HTML5](./assets/badges/html5.svg)
+![CSS](./assets/badges/css.svg)
+![JavaScript](./assets/badges/javascript.svg)
+
+**Desenvolvimento e operação**
+
+![Git](./assets/badges/git.svg)
+![Linux](./assets/badges/linux.svg)
+![GitHub Actions](./assets/badges/githubactions.svg)
+
+## Projetos selecionados
+
+<a href="https://github.com/iamnothuman7/solvian"><img src="./assets/solvian.svg" width="100%" alt="Solvian — projeto acadêmico de backend e dados com Django, NASA POWER e PDF" /></a>
+
+Dimensionamento solar, consulta de irradiação, análise de geração e propostas em PDF. Um projeto acadêmico para explorar integrações e cálculos em uma aplicação Django.
+
+[Explorar código e documentação →](https://github.com/iamnothuman7/solvian)
+
+<a href="https://github.com/iamnothuman7/emannuel-educa"><img src="./assets/educa.svg" width="100%" alt="Emannuel Educa — protótipo educacional com JavaScript, playground e quizzes" /></a>
+
+Aprendizado de programação com lições, playground, quizzes e conquistas. Protótipo de frontend: contas e progresso são locais ao navegador; o assistente usa respostas predefinidas.
+
+[Explorar código e documentação →](https://github.com/iamnothuman7/emannuel-educa)
+
+<a href="https://github.com/iamnothuman7/emannuel.mkt"><img src="./assets/marketing.svg" width="100%" alt="Emannuel Marketing — site profissional com HTML, CSS e JavaScript" /></a>
+
+Apresentação profissional em uma página, com navegação mobile, animações e identidade visual própria.
+
+[Ver site →](https://iamnothuman7.github.io/emannuel.mkt/) · [Explorar código →](https://github.com/iamnothuman7/emannuel.mkt)
+
+## Produtos e trabalho comercial
+
+Também desenvolvo produtos de gestão e sistemas de clientes na NABIO. Esses repositórios permanecem **privados**, preservando código de negócio, dados e integrações.
+
+Os projetos acima são a parte pública do meu trabalho. Cada README apresenta o que está implementado, como executar e quais limitações ainda existem.
+
+## Vamos conversar
+
+Tem um produto, uma integração ou um processo que precisa virar software?
+
+**[Conheça meu trabalho](https://emannuel.nabio.pro/) · [Fale comigo no LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/)**

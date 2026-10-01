@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="153" height="36" viewBox="0 0 153 36" role="img" aria-label="Portfólio">
+  <title>Portfólio</title>
+  <rect x=".5" y=".5" width="152" height="35" rx="7" fill="#12734b" stroke="#ffffff" stroke-opacity=".2"/>
+  <g transform="translate(12 8)" fill="none" stroke="#ffffff" stroke-width="1.6"><circle cx="10" cy="10" r="9"/><ellipse cx="10" cy="10" rx="4" ry="9"/><path d="M1 10H19"/></g>
+  <text x="43" y="23" fill="#edf7f1" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing=".6">PORTFÓLIO</text>
+</svg>
