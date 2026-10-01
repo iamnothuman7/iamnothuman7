@@ -24,8 +24,8 @@
     <path d="M48 1H912" stroke="url(#line)" stroke-width="2"/>
     <g fill="none" stroke="#75e6ba" stroke-opacity=".16">
       <circle cx="814" cy="158" r="90"/><circle cx="814" cy="158" r="120" stroke-dasharray="2 10"/>
-      <path d="M738 202L814 70L890 202Z"/>
-      <path d="M738 114L814 246L890 114Z"/>
+      <path d="M814 70L890 114V202L814 246L738 202V114Z"/>
+      <path d="M738 114L814 158L890 114M814 158V246"/>
     </g>
     <g class="orbit"><circle cx="814" cy="38" r="5" fill="#71e6b5"/><circle cx="814" cy="278" r="3" fill="#71e6b5" opacity=".4"/></g>
     <text x="814" y="175" text-anchor="middle" fill="#71e6b5" font-family="Consolas, monospace" font-size="48" font-weight="600">&lt;/&gt;</text>
