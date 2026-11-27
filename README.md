@@ -1,33 +1,28 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Emannuel Márdyan — desenvolvedor full-stack, estudante de cibersegurança e criador de produtos SaaS." />
+  <img src="./assets/header.svg" width="100%" alt="Emannuel Márdyan — desenvolvimento full stack, Engenharia de Software e cibersegurança." />
 </p>
 
 <p align="center">
-  <a href="https://emannuel.nabio.pro/"><img src="./assets/badges/portfolio.svg" alt="Visitar meu portfólio" /></a>
+  <a href="./PORTFOLIO.md"><img src="./assets/badges/portfolio.svg" alt="Conhecer meus projetos" /></a>
   <a href="https://www.linkedin.com/in/emannuelmardyan7/"><img src="./assets/badges/linkedin.svg" alt="Conversar no LinkedIn" /></a>
   <a href="https://github.com/iamnothuman7?tab=repositories"><img src="./assets/badges/github.svg" alt="Explorar meus repositórios" /></a>
 </p>
 
 ## Sobre mim
 
-Sou **Emannuel**, desenvolvedor full-stack na **NABIO**. Trabalho com aplicações web e produtos SaaS, conectando a experiência de quem usa o sistema às regras de negócio e à operação em produção.
+Sou **Emannuel Márdyan**, desenvolvedor full stack e estudante de **Engenharia de Software**. Construo aplicações web, sistemas de gestão e interfaces que conectam necessidades reais a uma operação simples de usar.
 
-Também sou **estudante de cibersegurança** e quero construir carreira na área, conectando esse aprendizado ao desenvolvimento de software.
+Estudo **cibersegurança**, com interesse em segurança de aplicações e no desenvolvimento de software confiável. Meu foco é entender como um sistema funciona, como pode falhar e como melhorar suas decisões de arquitetura, acesso e tratamento de dados.
 
-Gosto de transformar processos complicados em interfaces que fazem sentido. Meu foco está em ferramentas de gestão, integrações e produtos úteis no dia a dia.
+Este perfil reúne projetos de clientes, aplicações de estudo e protótipos. A documentação de cada repositório informa o escopo, a forma de execução e as limitações conhecidas.
 
-```python
-class Emannuel:
-    foco = "Full-stack & produtos SaaS"
-    backend = ["Python", "Django", "PostgreSQL"]
-    frontend = ["HTML", "CSS", "JavaScript"]
-    operacao = ["Linux", "Git", "GitHub Actions"]
-    estudando = "Cibersegurança"
-    objetivo = "Construir carreira em cibersegurança"
+## Áreas de atuação e estudo
 
-    def construir(self, ideia):
-        return "entender → desenvolver → testar → evoluir"
-```
+| Frente | Foco |
+|---|---|
+| **Desenvolvimento full stack** | Interfaces responsivas, backend, integrações e persistência de dados. |
+| **Engenharia de Software** | Requisitos, modelagem, organização do código, testes e evolução de aplicações. |
+| **Cibersegurança** | Estudos de autenticação, autorização, validação de entradas e proteção de dados em aplicações web. |
 
 ## Tecnologias
 
@@ -37,13 +32,13 @@ class Emannuel:
 ![Django](./assets/badges/django.svg)
 ![PostgreSQL](./assets/badges/postgresql.svg)
 
-**Interface e experiência**
+**Frontend**
 
 ![HTML5](./assets/badges/html5.svg)
 ![CSS](./assets/badges/css.svg)
 ![JavaScript](./assets/badges/javascript.svg)
 
-**Desenvolvimento e operação**
+**Ferramentas de desenvolvimento**
 
 ![Git](./assets/badges/git.svg)
 ![Linux](./assets/badges/linux.svg)
@@ -51,32 +46,37 @@ class Emannuel:
 
 ## Projetos selecionados
 
-<a href="https://github.com/iamnothuman7/solvian"><img src="./assets/solvian.svg" width="100%" alt="Solvian — projeto acadêmico de backend e dados com Django, NASA POWER e PDF" /></a>
+<a href="https://github.com/iamnothuman7/solvian"><img src="./assets/solvian.svg" width="100%" alt="RADIAX — estudo de backend e dados com Django, NASA POWER e PDF." /></a>
 
-Dimensionamento solar, consulta de irradiação, análise de geração e propostas em PDF. Um projeto acadêmico para explorar integrações e cálculos em uma aplicação Django.
+Estudo de dimensionamento solar, consulta de irradiação, análise de geração e propostas em PDF. A aplicação usa a identidade **RADIAX**; o repositório mantém o identificador `solvian`. O README apresenta as limitações acadêmicas e de execução.
 
 [Explorar código e documentação →](https://github.com/iamnothuman7/solvian)
 
-<a href="https://github.com/iamnothuman7/emannuel-educa"><img src="./assets/educa.svg" width="100%" alt="Emannuel Educa — protótipo educacional com JavaScript, playground e quizzes" /></a>
+<a href="https://github.com/iamnothuman7/emannuel-educa"><img src="./assets/educa.svg" width="100%" alt="Emannuel Educa — protótipo educacional com JavaScript, playground e quizzes." /></a>
 
-Aprendizado de programação com lições, playground, quizzes e conquistas. Protótipo de frontend: contas e progresso são locais ao navegador; o assistente usa respostas predefinidas.
+Protótipo de ensino de programação com lições, playground, quizzes e conquistas. Contas e progresso ficam no navegador; o assistente usa respostas predefinidas.
 
 [Explorar código e documentação →](https://github.com/iamnothuman7/emannuel-educa)
 
-<a href="https://github.com/iamnothuman7/emannuel.mkt"><img src="./assets/marketing.svg" width="100%" alt="Emannuel Marketing — site profissional com HTML, CSS e JavaScript" /></a>
+<a href="https://github.com/iamnothuman7/emannuel.mkt"><img src="./assets/marketing.svg" width="100%" alt="Emannuel Marketing — apresentação profissional com HTML, CSS e JavaScript." /></a>
 
-Apresentação profissional em uma página, com navegação mobile, animações e identidade visual própria.
+Site de apresentação profissional, com navegação mobile, animações e identidade visual própria. Um trabalho de interface e comunicação visual.
 
-[Ver site →](https://iamnothuman7.github.io/emannuel.mkt/) · [Explorar código →](https://github.com/iamnothuman7/emannuel.mkt)
+[Explorar código e documentação →](https://github.com/iamnothuman7/emannuel.mkt)
 
-## Produtos e trabalho comercial
+## Mais projetos
 
-Também desenvolvo produtos de gestão e sistemas de clientes na NABIO. Esses repositórios permanecem **privados**, preservando código de negócio, dados e integrações.
+O **[mapa do portfólio](./PORTFOLIO.md)** organiza os repositórios por finalidade:
 
-Os projetos acima são a parte pública do meu trabalho. Cada README apresenta o que está implementado, como executar e quais limitações ainda existem.
+- Aplicações e estudos de backend.
+- Sistemas de gestão para clientes.
+- Sites, interfaces e experiências no navegador.
+- Protótipos e versões relacionadas.
+
+Cada projeto tem um papel diferente. Um protótipo, uma base derivada de um starter e um sistema de cliente são identificados como tal.
 
 ## Vamos conversar
 
-Tem um produto, uma integração ou um processo que precisa virar software?
+Desenvolvimento de sistemas, interfaces e integrações.
 
-**[Conheça meu trabalho](https://emannuel.nabio.pro/) · [Fale comigo no LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/)**
+**[Veja o portfólio](./PORTFOLIO.md) · [LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/) · [Instagram](https://www.instagram.com/emannuel.dev/)**
