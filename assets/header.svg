@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="960" height="360" viewBox="0 0 960 360" role="img" aria-labelledby="title description">
-  <title id="title">Emannuel Márdyan — desenvolvedor full-stack e estudante de cibersegurança</title>
+  <title id="title">Emannuel Márdyan — desenvolvimento full stack, Engenharia de Software e cibersegurança</title>
   <desc id="description">Banner em verde-esmeralda com o nome de Emannuel, formas geométricas e um cursor de terminal animado.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -30,14 +30,14 @@
     <g class="orbit"><circle cx="814" cy="38" r="5" fill="#71e6b5"/><circle cx="814" cy="278" r="3" fill="#71e6b5" opacity=".4"/></g>
     <text x="814" y="175" text-anchor="middle" fill="#71e6b5" font-family="Consolas, monospace" font-size="48" font-weight="600">&lt;/&gt;</text>
     <g font-family="Segoe UI, Arial, sans-serif">
-      <text x="52" y="64" font-size="17" font-weight="600" letter-spacing="4" fill="#75e6ba">FULL-STACK · PRODUTOS SAAS</text>
+      <text x="52" y="64" font-size="17" font-weight="600" letter-spacing="4" fill="#75e6ba">DESENVOLVIMENTO FULL STACK</text>
       <text x="48" y="145" font-size="66" font-weight="700" letter-spacing="-2.5" fill="#f0faf5">Emannuel</text>
       <text x="48" y="217" font-size="66" font-weight="700" letter-spacing="-2.5" fill="#75e6ba">Márdyan.</text>
-      <text x="52" y="264" font-size="23" fill="#a9c3b9">Full-stack e estudante de cibersegurança.</text>
+      <text x="52" y="264" font-size="22" fill="#a9c3b9">Engenharia de Software · Cibersegurança</text>
       <path d="M52 294H908" stroke="#315347" stroke-opacity=".65"/>
       <text x="52" y="329" font-family="Consolas, monospace" font-size="18" fill="#a9c3b9"><tspan fill="#75e6ba">&gt;</tspan> construindo soluções com propósito</text>
       <rect class="cursor" x="474" y="313" width="9" height="19" rx="1" fill="#75e6ba"/>
-      <text x="908" y="329" text-anchor="end" font-size="16" letter-spacing="3" font-weight="600" fill="#75e6ba">NABIO</text>
+      <text x="908" y="329" text-anchor="end" font-size="16" letter-spacing="3" font-weight="600" fill="#75e6ba">EM</text>
     </g>
   </g>
   <rect x=".5" y=".5" width="959" height="359" rx="24" fill="none" stroke="#2c463d"/>
