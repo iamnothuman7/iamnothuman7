@@ -4,6 +4,16 @@
 
 Este mapa organiza os projetos pela finalidade e pelo que está documentado nos repositórios. Ter código público não significa que uma demonstração esteja no ar ou que o sistema tenha sido auditado.
 
+## Engenharia de software e cibersegurança — projetos locais
+
+Aplicações e ferramentas desenvolvidas como parte dos meus estudos de **Engenharia de Software**, com execução local e testes documentados.
+
+| Projeto | O que demonstra | Validação e escopo |
+|---|---|---|
+| [SecureDesk](https://github.com/iamnothuman7/securedesk) | Django, login, CRUD de tarefas e incidentes e isolamento de registros por usuário. | [28 testes](https://github.com/iamnothuman7/securedesk/blob/main/docs/VALIDATION.md) de comportamento e controles de acesso; modelo de ameaças documentado. Demonstração local. |
+| [StockFlow](https://github.com/iamnothuman7/stockflow) | FastAPI e SQLite, painel de estoque, movimentações transacionais e reenvios idempotentes. | [26 testes](https://github.com/iamnothuman7/stockflow/blob/main/docs/VALIDATION.md), incluindo rollback e concorrência. Uso local e individual, sem autenticação. |
+| [HTTP Security Lab](https://github.com/iamnothuman7/http-security-lab) | CLI Python offline para headers e cookies de respostas salvas, com contexto explícito e relatórios JSON/Markdown. | [38 testes](https://github.com/iamnothuman7/http-security-lab/blob/main/docs/VALIDATION.md) de contexto, entrada, relatórios e ausência de chamadas de rede nos caminhos exercitados. Sem nota ou certificação de segurança. |
+
 ## Aplicações e estudos de backend
 
 | Projeto | O que demonstra | Contexto |
