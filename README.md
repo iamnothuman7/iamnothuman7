@@ -10,7 +10,7 @@
 
 ## Sobre mim
 
-Sou **Emannuel**, desenvolvedor full-stack na **NABIO**. Trabalho com aplicações web e produtos SaaS, conectando a experiência de quem usa o sistema às regras de negócio e à operação em produção.
+Sou **Emannuel**, desenvolvedor full-stack. Trabalho com aplicações web e produtos SaaS, conectando a experiência de quem usa o sistema às regras de negócio e à operação em produção.
 
 Também sou **estudante de cibersegurança** e quero construir carreira na área, conectando esse aprendizado ao desenvolvimento de software.
 
@@ -79,4 +79,4 @@ Os projetos acima são a parte pública do meu trabalho. Cada README apresenta o
 
 Tem um produto, uma integração ou um processo que precisa virar software?
 
-**[Conheça meu trabalho](https://emannuel.nabio.pro/) · [Fale comigo no LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/)**
+**[Conheça meu trabalho](https://instagram.com/emannuel.dev) · [Fale comigo no LinkedIn](https://www.linkedin.com/in/emannuelmardyan7/)**
