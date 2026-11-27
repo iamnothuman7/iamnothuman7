@@ -46,6 +46,26 @@ Este perfil reúne projetos de clientes, aplicações de estudo e protótipos. A
 
 ## Projetos selecionados
 
+Os três destaques abaixo reúnem execução local, funcionalidades utilizáveis, decisões de engenharia e testes documentados.
+
+### [SecureDesk](https://github.com/iamnothuman7/securedesk)
+
+Aplicação em **Django** para tarefas e incidentes, com login, CRUD e isolamento de registros por usuário. Os **[28 testes automatizados](https://github.com/iamnothuman7/securedesk/blob/main/docs/VALIDATION.md)** cobrem controle de acesso, CSRF e exibição de conteúdo. Inclui **[modelo de ameaças](https://github.com/iamnothuman7/securedesk/blob/main/docs/THREAT_MODEL.md)** e limites documentados para a demonstração local.
+
+[Explorar código e documentação →](https://github.com/iamnothuman7/securedesk)
+
+### [StockFlow](https://github.com/iamnothuman7/stockflow)
+
+API de estoque com painel web em **FastAPI e SQLite**. Registra movimentações em transações, recusa saídas acima do saldo e evita duplicação por reenvio da mesma operação. Os **[26 testes automatizados](https://github.com/iamnothuman7/stockflow/blob/main/docs/VALIDATION.md)** incluem rollback e concorrência. Demonstração para uso local e individual, sem autenticação.
+
+[Explorar código e documentação →](https://github.com/iamnothuman7/stockflow)
+
+### [HTTP Security Lab](https://github.com/iamnothuman7/http-security-lab)
+
+CLI offline em **Python**, usando apenas a biblioteca padrão, para analisar headers e cookies de respostas HTTP salvas. Considera HTML/JSON, HTTPS e finalidade dos cookies, com relatórios JSON e Markdown. Os **[38 testes automatizados](https://github.com/iamnothuman7/http-security-lab/blob/main/docs/VALIDATION.md)** cobrem contexto, entradas malformadas, relatórios e execução com APIs de rede bloqueadas. Os resultados orientam revisão e não certificam a segurança de uma aplicação.
+
+[Explorar código e documentação →](https://github.com/iamnothuman7/http-security-lab)
+
 <a href="https://github.com/iamnothuman7/solvian"><img src="./assets/solvian.svg" width="100%" alt="RADIAX — estudo de backend e dados com Django, NASA POWER e PDF." /></a>
 
 Estudo de dimensionamento solar, consulta de irradiação, análise de geração e propostas em PDF. A aplicação usa a identidade **RADIAX**; o repositório mantém o identificador `solvian`. O README apresenta as limitações acadêmicas e de execução.
